@@ -1,0 +1,8 @@
+requests
+fitz
+openai
+numpy
+tensorflow_hub
+fastapi
+sklearn
+flask
