@@ -1,8 +1,10 @@
 requests
-fitz
-openai
+openai==0.10.2
 numpy
 tensorflow_hub
 fastapi
 sklearn
 flask
+PyMuPDF
+scikit-learn
+tensorflow>=2.0.0
